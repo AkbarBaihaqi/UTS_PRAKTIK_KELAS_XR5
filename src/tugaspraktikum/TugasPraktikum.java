@@ -66,7 +66,7 @@ public class TugasPraktikum {
          c =(b-g);
          System.out.println("Kembalian: Rp."+c);
          
-         System.out.println("\nNama kasir: Akbar Baiahaqi Putra Aji Pratama");
+         System.out.println("\nNama kasir: Akbar Baihaqi Putra Aji Pratama");
          
          System.out.println("\n=============================");
               
